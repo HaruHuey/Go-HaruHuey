@@ -10,4 +10,5 @@ func main() {
 
 	fmt.Println(data1 + data1)
 	fmt.Println(data1 / data2)
+	fmt.Println(data1 * data2)
 }
